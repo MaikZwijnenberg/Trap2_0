@@ -1,0 +1,14 @@
+C:\Git_Maik\RandbeveiligingsKoker\ObjDir\2019\Beveiligingskoker\Beveiligingskoker.csproj.AssemblyReference.cache
+C:\Git_Maik\RandbeveiligingsKoker\ObjDir\2019\Beveiligingskoker\MainWindow.g.cs
+C:\Git_Maik\RandbeveiligingsKoker\ObjDir\2019\Beveiligingskoker\BeveiligingsKoker_MarkupCompile.cache
+C:\Git_Maik\RandbeveiligingsKoker\ObjDir\2019\Beveiligingskoker\BeveiligingsKoker_MarkupCompile.lref
+C:\Git_Maik\RandbeveiligingsKoker\WPFPluginTemplate\bin\Debug\BeveiligingsKoker.ail
+C:\Git_Maik\RandbeveiligingsKoker\WPFPluginTemplate\bin\Debug\BeveiligingsKoker.dll
+C:\Git_Maik\RandbeveiligingsKoker\WPFPluginTemplate\bin\Debug\BeveiligingsKoker.pdb
+C:\Git_Maik\RandbeveiligingsKoker\ObjDir\2019\Beveiligingskoker\MainWindow.baml
+C:\Git_Maik\RandbeveiligingsKoker\ObjDir\2019\Beveiligingskoker\BeveiligingsKoker.g.resources
+C:\Git_Maik\RandbeveiligingsKoker\ObjDir\2019\Beveiligingskoker\BeveiligingsKoker.Properties.Resources.resources
+C:\Git_Maik\RandbeveiligingsKoker\ObjDir\2019\Beveiligingskoker\Beveiligingskoker.csproj.GenerateResource.cache
+C:\Git_Maik\RandbeveiligingsKoker\ObjDir\2019\Beveiligingskoker\Beveiligingskoker.csproj.CoreCompileInputs.cache
+C:\Git_Maik\RandbeveiligingsKoker\ObjDir\2019\Beveiligingskoker\BeveiligingsKoker.dll
+C:\Git_Maik\RandbeveiligingsKoker\ObjDir\2019\Beveiligingskoker\BeveiligingsKoker.pdb

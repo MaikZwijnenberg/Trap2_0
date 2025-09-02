@@ -1,0 +1,66 @@
+﻿<tsd:PluginWindowBase x:Class="Trap2_0.MainWindow"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                      xmlns:local="clr-namespace:Trap2_0"
+                      xmlns:UIControls="clr-namespace:Tekla.Structures.Dialog.UIControls;assembly=Tekla.Structures.Dialog"
+                      xmlns:tsd="clr-namespace:Tekla.Structures.Dialog;assembly=Tekla.Structures.Dialog"
+                      mc:Ignorable="d"
+                      Title="Draadeind Creator versie 0.0.1"
+                      Width="814.468"
+                      Height="535"
+                      ResizeMode="NoResize">
+    <d:UserControl.DataContext>
+        <local:MainWindowViewModel />
+    </d:UserControl.DataContext>
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"
+                           MinHeight="48" />
+            <RowDefinition />
+            <RowDefinition Height="Auto"
+                           MinHeight="48" />
+        </Grid.RowDefinitions>
+        <UIControls:WpfSaveLoad Grid.Row="0"
+                                HorizontalAlignment="Stretch"
+                                VerticalAlignment="Top" />
+        <Grid Grid.Row="1"
+              Margin="5">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50" />
+                <RowDefinition Height="30" />
+                <RowDefinition Height="30" />
+                <RowDefinition Height="30" />
+                <RowDefinition Height="160" />
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition Width="180" />
+                <ColumnDefinition Width="180" />
+                <ColumnDefinition Width="140" />
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Row="0"
+                        Grid.Column="3"
+                        Grid.ColumnSpan="3"
+                        Orientation="Horizontal">
+                <Image Source="Images\Severfield-logo_Verkleind.png" />
+            </StackPanel>
+            
+            
+
+        </Grid>
+        <UIControls:WpfOkApplyModifyGetOnOffCancel Grid.Row="2"
+                                                   ApplyClicked="WpfOkApplyModifyGetOnOffCancel_ApplyClicked"
+                                                   CancelClicked="WpfOkApplyModifyGetOnOffCancel_CancelClicked"
+                                                   GetClicked="WpfOkApplyModifyGetOnOffCancel_GetClicked"
+                                                   ModifyClicked="WpfOkApplyModifyGetOnOffCancel_ModifyClicked"
+                                                   OkClicked="WpfOkApplyModifyGetOnOffCancel_OkClicked"
+                                                   OnOffClicked="WpfOkApplyModifyGetOnOffCancel_OnOffClicked"
+                                                   Loaded="WpfOkApplyModifyGetOnOffCancel_Loaded" />
+    </Grid>
+</tsd:PluginWindowBase>

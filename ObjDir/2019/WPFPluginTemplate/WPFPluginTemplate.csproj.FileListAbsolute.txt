@@ -1,0 +1,14 @@
+C:\Users\g.ramsaroep\source\repos\WPFPluginTemplate\WPFPluginTemplate\bin\Debug\WPFPluginTemplate.dll
+C:\Users\g.ramsaroep\source\repos\WPFPluginTemplate\WPFPluginTemplate\bin\Debug\WPFPluginTemplate.pdb
+C:\Users\g.ramsaroep\source\repos\WPFPluginTemplate\ObjDir\2019\WPFPluginTemplate\WPFPluginTemplate.csprojAssemblyReference.cache
+C:\Users\g.ramsaroep\source\repos\WPFPluginTemplate\ObjDir\2019\WPFPluginTemplate\MainWindow.g.cs
+C:\Users\g.ramsaroep\source\repos\WPFPluginTemplate\ObjDir\2019\WPFPluginTemplate\WPFPluginTemplate_MarkupCompile.cache
+C:\Users\g.ramsaroep\source\repos\WPFPluginTemplate\ObjDir\2019\WPFPluginTemplate\WPFPluginTemplate_MarkupCompile.lref
+C:\Users\g.ramsaroep\source\repos\WPFPluginTemplate\ObjDir\2019\WPFPluginTemplate\MainWindow.baml
+C:\Users\g.ramsaroep\source\repos\WPFPluginTemplate\ObjDir\2019\WPFPluginTemplate\WPFPluginTemplate.g.resources
+C:\Users\g.ramsaroep\source\repos\WPFPluginTemplate\ObjDir\2019\WPFPluginTemplate\WPFPluginTemplate.Properties.Resources.resources
+C:\Users\g.ramsaroep\source\repos\WPFPluginTemplate\ObjDir\2019\WPFPluginTemplate\WPFPluginTemplate.csproj.GenerateResource.cache
+C:\Users\g.ramsaroep\source\repos\WPFPluginTemplate\ObjDir\2019\WPFPluginTemplate\WPFPluginTemplate.csproj.CoreCompileInputs.cache
+C:\Users\g.ramsaroep\source\repos\WPFPluginTemplate\ObjDir\2019\WPFPluginTemplate\WPFPluginTemplate.dll
+C:\Users\g.ramsaroep\source\repos\WPFPluginTemplate\ObjDir\2019\WPFPluginTemplate\WPFPluginTemplate.pdb
+C:\Users\g.ramsaroep\source\repos\WPFPluginTemplate\WPFPluginTemplate\bin\Debug\WPFPluginTemplate.ail
