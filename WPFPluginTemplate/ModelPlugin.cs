@@ -107,7 +107,6 @@ namespace Trap2_0
                 CreateDummyTrede createDummyTrede = new CreateDummyTrede();
                 createDummyTrede.Create();
 
-
                 ClearStaticMembers.ClearAll();
             }
             catch (Exception ex)

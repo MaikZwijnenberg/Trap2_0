@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "H:\\Git_Maik\\Trap2_0\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|h:\\git_maik\\trap2_0\\wpfplugintemplate\\modelplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|solutionrelative:wpfplugintemplate\\modelplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|h:\\git_maik\\trap2_0\\wpfplugintemplate\\creators\\createdummytrede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|solutionrelative:wpfplugintemplate\\creators\\createdummytrede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\SFDraadeindCreator.csproj|h:\\git_maik\\trap2_0\\wpfplugintemplate\\modelplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\SFDraadeindCreator.csproj|solutionrelative:wpfplugintemplate\\modelplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|h:\\git_maik\\trap2_0\\wpfplugintemplate\\creators\\createdummyandworkplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|H:\\Git_Maik\\Trap2_0\\wpfplugintemplate\\creators\\createdummyandworkplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|solutionrelative:wpfplugintemplate\\creators\\createdummyandworkplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,35 +19,35 @@
       "RelativeMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\SFDraadeindCreator.csproj|solutionrelative:wpfplugintemplate\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|h:\\git_maik\\trap2_0\\wpfplugintemplate\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|H:\\Git_Maik\\Trap2_0\\wpfplugintemplate\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|solutionrelative:wpfplugintemplate\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|h:\\git_maik\\trap2_0\\wpfplugintemplate\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|H:\\Git_Maik\\Trap2_0\\wpfplugintemplate\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|solutionrelative:wpfplugintemplate\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|h:\\git_maik\\trap2_0\\wpfplugintemplate\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|H:\\Git_Maik\\Trap2_0\\wpfplugintemplate\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|solutionrelative:wpfplugintemplate\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|h:\\git_maik\\trap2_0\\wpfplugintemplate\\datamodels\\clearstaticmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|H:\\Git_Maik\\Trap2_0\\wpfplugintemplate\\datamodels\\clearstaticmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|solutionrelative:wpfplugintemplate\\datamodels\\clearstaticmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|h:\\git_maik\\trap2_0\\wpfplugintemplate\\datamodels\\getsecondaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|H:\\Git_Maik\\Trap2_0\\wpfplugintemplate\\datamodels\\getsecondaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|solutionrelative:wpfplugintemplate\\datamodels\\getsecondaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|h:\\git_maik\\trap2_0\\wpfplugintemplate\\datamodels\\reportproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|H:\\Git_Maik\\Trap2_0\\wpfplugintemplate\\datamodels\\reportproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|solutionrelative:wpfplugintemplate\\datamodels\\reportproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|h:\\git_maik\\trap2_0\\wpfplugintemplate\\datamodels\\structuresdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|H:\\Git_Maik\\Trap2_0\\wpfplugintemplate\\datamodels\\structuresdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|solutionrelative:wpfplugintemplate\\datamodels\\structuresdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|h:\\git_maik\\trap2_0\\wpfplugintemplate\\models\\inputgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|H:\\Git_Maik\\Trap2_0\\wpfplugintemplate\\models\\inputgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10C440B9-03A5-4E4E-845B-EAA3C9FE342A}|WPFPluginTemplate\\Trap2_0.csproj|solutionrelative:wpfplugintemplate\\models\\inputgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,19 +82,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "H:\\Git_Maik\\Trap2_0\\WPFPluginTemplate\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "WPFPluginTemplate\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "H:\\Git_Maik\\Trap2_0\\WPFPluginTemplate\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "WPFPluginTemplate\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T07:54:57.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "GetSecondaries.cs",
               "DocumentMoniker": "H:\\Git_Maik\\Trap2_0\\WPFPluginTemplate\\DataModels\\GetSecondaries.cs",
@@ -103,8 +90,7 @@
               "RelativeToolTip": "WPFPluginTemplate\\DataModels\\GetSecondaries.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T07:54:41.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T07:54:41.218Z"
             },
             {
               "$type": "Document",
@@ -116,8 +102,7 @@
               "RelativeToolTip": "WPFPluginTemplate\\MainWindow.xaml.cs",
               "ViewState": "AgIAADAAAAAAAAAAAADwvz8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T07:53:11.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T07:53:11.869Z"
             },
             {
               "$type": "Document",
@@ -129,8 +114,7 @@
               "RelativeToolTip": "WPFPluginTemplate\\DataModels\\ClearStaticMembers.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T07:33:16.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T07:33:16.015Z"
             },
             {
               "$type": "Document",
@@ -141,8 +125,7 @@
               "ToolTip": "H:\\Git_Maik\\Trap2_0\\WPFPluginTemplate\\MainWindow.xaml",
               "RelativeToolTip": "WPFPluginTemplate\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-02T07:00:58.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T07:00:58.903Z"
             },
             {
               "$type": "Document",
@@ -154,21 +137,32 @@
               "RelativeToolTip": "WPFPluginTemplate\\MainWindowViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T07:53:28.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T07:53:28.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ModelPlugin.cs",
               "DocumentMoniker": "H:\\Git_Maik\\Trap2_0\\WPFPluginTemplate\\ModelPlugin.cs",
               "RelativeDocumentMoniker": "WPFPluginTemplate\\ModelPlugin.cs",
               "ToolTip": "H:\\Git_Maik\\Trap2_0\\WPFPluginTemplate\\ModelPlugin.cs",
               "RelativeToolTip": "WPFPluginTemplate\\ModelPlugin.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAkwGsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAmwG0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T07:00:58.684Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "H:\\Git_Maik\\Trap2_0\\WPFPluginTemplate\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WPFPluginTemplate\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "H:\\Git_Maik\\Trap2_0\\WPFPluginTemplate\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "WPFPluginTemplate\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T07:54:57.117Z"
             },
             {
               "$type": "Document",
@@ -180,8 +174,7 @@
               "RelativeToolTip": "WPFPluginTemplate\\DataModels\\ReportProperty.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T07:54:39.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T07:54:39.441Z"
             },
             {
               "$type": "Document",
@@ -193,8 +186,7 @@
               "RelativeToolTip": "WPFPluginTemplate\\DataModels\\StructuresData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T07:54:36.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T07:54:36.82Z"
             },
             {
               "$type": "Document",
@@ -206,8 +198,7 @@
               "RelativeToolTip": "WPFPluginTemplate\\Models\\InputGroup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T07:54:32.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T07:54:32.682Z"
             },
             {
               "$type": "Document",
@@ -231,11 +222,11 @@
       "FloatingWindowState": {
         "Id": "276982c4-f4f8-462f-8720-55b4891cc09a",
         "Display": 1,
-        "X": 268,
-        "Y": 105,
+        "X": 281,
+        "Y": 159,
         "Width": 1458,
         "Height": 800,
-        "WindowState": 2
+        "WindowState": 0
       },
       "DocumentGroups": [
         {
@@ -257,13 +248,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CreateDummyTrede.cs",
               "DocumentMoniker": "H:\\Git_Maik\\Trap2_0\\WPFPluginTemplate\\Creators\\CreateDummyTrede.cs",
               "RelativeDocumentMoniker": "WPFPluginTemplate\\Creators\\CreateDummyTrede.cs",
               "ToolTip": "H:\\Git_Maik\\Trap2_0\\WPFPluginTemplate\\Creators\\CreateDummyTrede.cs",
               "RelativeToolTip": "WPFPluginTemplate\\Creators\\CreateDummyTrede.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAcwEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwMIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T09:30:14.783Z",
               "EditorCaption": ""
